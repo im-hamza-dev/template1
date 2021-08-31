@@ -15,10 +15,22 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.12.1",
-    "gatsby-plugin-sass": "^4.12.0",
+    "@fontsource/mulish": "^4.5.0",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "gatsby": "^3.11.0",
+    "gatsby-plugin-sass": "^4.10.0",
+    "gatsby-plugin-sharp": "^3.10.2",
+    "gatsby-source-wordpress": "^5.10.0",
+    "gatsby-transformer-sharp": "^3.10.0",
+    "jquery": "^3.6.0",
     "react": "^17.0.1",
+    "react-bootstrap": "^2.0.0-beta.4",
     "react-dom": "^17.0.1",
-    "sass": "^1.38.2"
+    "react-fast-marquee": "^1.2.1",
+    "react-headroom-extended": "^1.0.6",
+    "react-lottie-player": "^1.3.3",
+    "react-scroll-parallax": "^2.4.0",
+    "sass": "^1.36.0"
   }
 }
